@@ -5,6 +5,7 @@ A Python-based health tool to accurately calculate Body Mass Index (BMI) and cat
 ### 👨‍💻 Developer Details
 * **Name:** Ishant Khare
 * **Domain:** Python Programming
+* * **Company:** Oasis Infobyte
 ### 🎯 Objective
 To create a Body Mass Index (BMI) calculator that takes user measurements and calculates their specific BMI and weight category.
 
